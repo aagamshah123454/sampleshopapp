@@ -1,2 +1,0 @@
-# sampleshopapp
-sample ar app
